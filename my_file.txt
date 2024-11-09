@@ -1,0 +1,6 @@
+Hello, World!
+This is the second line.
+The third line has a number: 123.
+This is the fourth line.
+Appending the fifth line with a number: 456.
+Finally, this is the sixth line.
